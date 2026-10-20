@@ -1,0 +1,21 @@
+{
+  "id": "/",
+  "name": "MAC 300L Study Package - Jabbok Media",
+  "short_name": "MAC 300L",
+  "description": "Comprehensive 300-level Mass Communication revision package with examiner frequency analysis and full model answers by Jabbok Media Services.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0f766e",
+  "theme_color": "#0f766e",
+  "categories": ["education", "books"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

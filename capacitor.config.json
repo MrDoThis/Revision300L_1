@@ -1,0 +1,9 @@
+{
+  "appId": "com.jabbokmedia.mac300l",
+  "appName": "MAC 300L Study Package",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
